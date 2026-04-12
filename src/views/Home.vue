@@ -180,7 +180,7 @@ onUnmounted(() => {
               Dress Code
             </h4>
             <p class="font-body text-[var(--muted)] leading-relaxed">
-              Formal / Garden Party
+              Semi-formal / Garden Party
             </p>
           </div>
           <Countdown wedding-date="2026-08-22T10:30:00" />
@@ -197,6 +197,19 @@ onUnmounted(() => {
             >
               RSVP
             </button>
+          </div>
+          <div class="space-y-3">
+            <a
+              href="https://app.collectionpot.com/pot/3466918"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="font-body block w-full text-center text-lg py-3 px-4 rounded-sm border border-[var(--paper-line)] bg-[var(--paper)] text-[var(--ink)] hover:bg-[var(--paper-warm)] transition-all duration-300 hover:scale-[1.02] active:scale-[0.98]"
+            >
+              Newlyweds Fund
+            </a>
+            <p class="font-body text-[var(--muted)] text-sm leading-relaxed">
+              Please know that having you celebrate with us is more than enough. For those who have asked about a registry, we've set up a digital fund to help us start our life together without the weight of extra luggage!
+            </p>
           </div>
         </aside>
       </div>
